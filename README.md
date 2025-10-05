@@ -1,4 +1,4 @@
-![TreeGIF](https://github.com/user-attachments/assets/0849a207-2af9-4c96-811b-ff6d94ad7fde)# 👽 Olá, eu sou Gazstao
+# 👽 Olá, sou o Gazstao
 
 🔒 ** Cibersegurança | IA | Medicina Nuclear**
 
