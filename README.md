@@ -2,7 +2,8 @@
 
 🔒 **Cibersegurança, IA, Medicina Nuclear**
 
-Experiência em manutenção de equipamentos médicos e apaixonado por cibersegurança e inteligência artificial. Estou sempre buscando formas de proteger sistemas e explorar novas tecnologias. 
+Experiência em manutenção de equipamentos médicos e apaixonado por cibersegurança e inteligência artificial. 
+Estou sempre buscando formas de proteger sistemas e explorar novas tecnologias. 
 
 ### 🔭 Projetos em Andamento
 - Desenvolvendo ferramentas de segurança para pequenas empresas
