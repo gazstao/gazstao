@@ -2,7 +2,7 @@
 
 🔒 **Cibersegurança, IA, Medicina Nuclear**
 
-Sou um profissional com mais de 26 anos de experiência em manutenção de equipamentos médicos e apaixonado por cibersegurança e inteligência artificial. Tenho certificações como **CEH Master** e **CHFI** pela EC-Council, e estou sempre buscando formas de proteger sistemas e explorar novas tecnologias.
+Experiência em manutenção de equipamentos médicos e apaixonado por cibersegurança e inteligência artificial. Estou sempre buscando formas de proteger sistemas e explorar novas tecnologias. 
 
 ### 🔭 Projetos em Andamento
 - Desenvolvendo ferramentas de segurança para pequenas empresas
