@@ -35,4 +35,4 @@ Sou um profissional com mais de 26 anos de experiência em manutenção de equip
 - Diversos treinamentos do Cisco Networking Academy e Blue Team pelo Hackers do Bem
 
 > "A melhor defesa é o conhecimento, e o melhor ataque é a curiosidade."  
-> *Explorando o mundo digital, um byte de cada vez.*
+> *Hack Your Soul*
