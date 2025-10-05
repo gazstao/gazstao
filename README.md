@@ -1,4 +1,4 @@
-# 👽 Olá, eu sou Gazstao
+![TreeGIF](https://github.com/user-attachments/assets/0849a207-2af9-4c96-811b-ff6d94ad7fde)# 👽 Olá, eu sou Gazstao
 
 🔒 ** Cibersegurança | IA | Medicina Nuclear**
 
@@ -20,6 +20,7 @@ Sou um profissional com mais de 26 anos de experiência em manutenção de equip
 - **Outras**: Manutenção de equipamentos médicos, Blockchain, NFTs
 
 ### 📫 Entre em Contato
+- 🌳 [linktr.ee/gazstao](https://linktr.ee/gazstao)
 - 🌐 [aztechtecnologia.com.br](https://aztechtecnologia.com.br)
 - 📧 hackersdobem@outlook.com.br
 
