@@ -8,6 +8,7 @@ Experiência em manutenção de equipamentos médicos e apaixonado por cibersegu
 Estou sempre buscando formas de proteger sistemas e explorar novas tecnologias. 
 
 ### 🔭 Projetos em Andamento
+- Manutenção de Equipamentos de Medicina Nuclear
 - Desenvolvendo ferramentas de segurança para pequenas empresas
 - Explorando aplicações de IA em cibersegurança
 - Automatização de processos
