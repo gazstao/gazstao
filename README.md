@@ -1,3 +1,5 @@
+<img width="379" height="430" alt="image" src="https://github.com/user-attachments/assets/57523596-b1bc-43c6-b54e-302f8a8b15ca" />
+
 # 👽 Olá, sou o Gazstao
 
 🔒 **Cibersegurança, IA, Medicina Nuclear**
