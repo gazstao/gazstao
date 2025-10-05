@@ -1,6 +1,6 @@
 # 👽 Olá, eu sou Gazstao
 
-🔒 **Especialista em Cibersegurança | Entusiasta de IA | Manutenção em Medicina Nuclear**
+🔒 ** Cibersegurança | IA | Medicina Nuclear**
 
 Sou um profissional com mais de 26 anos de experiência em manutenção de equipamentos médicos e apaixonado por cibersegurança e inteligência artificial. Tenho certificações como **CEH Master** e **CHFI** pela EC-Council, e estou sempre buscando formas de proteger sistemas e explorar novas tecnologias.
 
