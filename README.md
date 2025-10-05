@@ -1,4 +1,4 @@
-<img width="379" height="430" alt="image" src="https://github.com/user-attachments/assets/57523596-b1bc-43c6-b54e-302f8a8b15ca" />
+<img width="721" height="163" alt="image" src="https://github.com/user-attachments/assets/59b1342d-ff2a-423e-956f-ce91312f8104" />
 
 # 👽 Olá, sou o Gazstao
 
