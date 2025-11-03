@@ -35,8 +35,7 @@ Estou sempre buscando formas de proteger sistemas e explorar novas tecnologias.
 ### 🏆 Conquistas
 - **NASA Space Apps Challenge**
 - Criei os sites [aztechtecnologia.com.br](https://aztechtecnologia.com.br), [daydoc.com.br](https://daydoc.com.br), [cintimagem.com.br](https://cintimagem.com.br), entre outros...
-- Contribuí para comunidades de cibersegurança no Brasil
+- Participação em comunidades de cibersegurança no Brasil
 - Diversos treinamentos do Cisco Networking Academy e Blue Team pelo Hackers do Bem
 
-> "A melhor defesa é o conhecimento, e o melhor ataque é a curiosidade."  
 > *Hack Your Soul*
