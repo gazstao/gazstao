@@ -11,7 +11,7 @@ Estou sempre buscando formas de proteger sistemas e explorar novas tecnologias.
 - Manutenção de Equipamentos de Medicina Nuclear
 - Desenvolvendo ferramentas de segurança para pequenas empresas
 - Explorando aplicações de IA em cibersegurança
-- Automatização de processos
+- Automação de processos
 
 ### 🌱 O que Estou Aprendendo
 - Técnicas avançadas de pentesting e análise forense
