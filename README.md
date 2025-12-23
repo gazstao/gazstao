@@ -14,9 +14,9 @@ Estou sempre buscando formas de proteger sistemas e explorar novas tecnologias.
 - Automação de processos
 
 ### 🌱 O que Estou Aprendendo
-- Técnicas avançadas de pentesting e análise forense
-- Integração de IA em soluções de automação e de segurança (n8n)
-- Filosofia e ética em tecnologia para evolução pessoal
+- Técnicas de pentesting e análise forense
+- Integração de IA em soluções de automação e de segurança
+- Filosofia e ética para evolução pessoal
 
 ### 🛠️ Habilidades
 - **Cibersegurança**: Pentesting (Nmap, Metasploit), Análise Forense, Segurança de IoT
