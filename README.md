@@ -23,11 +23,6 @@ Estou sempre buscando formas de proteger sistemas e explorar novas tecnologias.
 - **Programação**: Python, Bash, PowerShell, Java, C, Arduino
 - **Outras**: Manutenção de equipamentos médicos, Blockchain, NFTs
 
-### 📫 Entre em Contato
-- 🌳 [linktr.ee/gazstao](https://linktr.ee/gazstao)
-- 🌐 [aztechtecnologia.com.br](https://aztechtecnologia.com.br)
-- 📧 sac@aztechtecnologia.com.br
-
 ### ⚡ Certificações
 - **Certified Ethical Hacker (CEH) Master** - EC-Council
 - **Computer Hacking Forensic Investigator (CHFI)** - EC-Council
@@ -37,5 +32,9 @@ Estou sempre buscando formas de proteger sistemas e explorar novas tecnologias.
 - Criei os sites [aztechtecnologia.com.br](https://aztechtecnologia.com.br), [daydoc.com.br](https://daydoc.com.br), [cintimagem.com.br](https://cintimagem.com.br), entre outros...
 - Participação em comunidades de cibersegurança no Brasil
 - Diversos treinamentos do Cisco Networking Academy e Blue Team pelo Hackers do Bem
+
+### 📫 Entre em Contato
+- 📧 sac@aztechtecnologia.com.br
+
 
 > *Hack Your Soul*
